@@ -1,16 +1,15 @@
 # Termo de Abertura de Projeto
 
-# Problema
+## Problema
 
-Este projeto busca implementar uma agenda de contatos que possa ser utilizada em outras aplicações desenvolvidas em Python já em operação no cliente.
+Este projeto buscar implementar uma agenda de contatos que possa ser utilizada em outras aplicações desenvolvidas em Python já em operação no cliente.
+
 
 ## Requisitos de usuário
 
-### Requisito RU1 - banco de dados de agenda telefônica e endereço
-O banco de dados deverá ser uma agenda.
+### Requisito RU1 - banco de dados de agenda telefônica e de endereço
 
 ### Requisito RU2 - Prenome
-O banco de dados deverá ter um campo para armazenar o prenome da pessoa.
 
 ### Requisito RU3 - Nome do meio
 
@@ -22,7 +21,7 @@ O banco de dados deverá ter um campo para armazenar o prenome da pessoa.
 
 ### Requisito RU7 - Estado
 
-### Requisito RU8 - Municipio
+### Requisito RU8 - Município
 
 ### Requisito RU9 - Logradouro
 
@@ -31,6 +30,8 @@ O banco de dados deverá ter um campo para armazenar o prenome da pessoa.
 ### Requisito RU11 - número
 
 ### Requisito RU12 - complemento
+
+
 
 ## Requisitos de sistema
 
@@ -44,6 +45,14 @@ O banco de dados deve ser armazenado em um arquivo.
 
 A biblioteca deve oferecer uma função para inserção de dados.
 
-### Requisitos RS3 - consulta de dados
+### Requisito RS3  - consulta de dados
 
-A biblioteca 
+A biblioteca deve oferecer uma função para consulta de dados.
+
+### Requisito RS4  - atualização de dados
+
+A biblioteca deve oferecer uma função para atualização de dados.
+
+### Requisito RS5  - exclusão de dados
+
+A biblioteca deve oferecer uma função para exclusão de dados.
